@@ -1,2 +1,1 @@
-helo
-ini dari sulug
+console.log('wkkwkw')
